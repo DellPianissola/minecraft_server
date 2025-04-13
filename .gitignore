@@ -1,0 +1,40 @@
+# Arquivos e pastas do Minecraft
+world/
+world_nether/
+world_the_end/
+logs/
+cache/
+crash-reports/
+usercache.json
+whitelist.json
+banned-players.json
+banned-ips.json
+ops.json
+server.properties
+
+# Docker
+*.pid
+*.log
+*.sock
+
+# Plugins que geram arquivos próprios
+plugins/*/
+!plugins/*.jar
+
+# Geral
+*.jar
+*.zip
+*.gz
+*.tar
+*.rar
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PyCharm / JetBrains
+.idea/
+
+# Sistema
+*.swp
