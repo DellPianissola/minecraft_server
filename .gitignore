@@ -10,7 +10,6 @@ whitelist.json
 banned-players.json
 banned-ips.json
 ops.json
-server.properties
 
 # Docker
 *.pid
