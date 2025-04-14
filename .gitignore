@@ -16,9 +16,6 @@ ops.json
 *.log
 *.sock
 
-# Plugins que geram arquivos próprios
-plugins/
-
 # Geral
 *.jar
 *.zip
