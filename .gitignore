@@ -17,8 +17,7 @@ ops.json
 *.sock
 
 # Plugins que geram arquivos próprios
-plugins/*/
-!plugins/*.jar
+plugins/
 
 # Geral
 *.jar
